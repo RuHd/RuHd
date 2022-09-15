@@ -23,13 +23,23 @@
 
 <div> 
   <h3> Social Medias </h3> <br>
-  <img style = "width: 100px; height: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a>
+     <img style = "width: 100px; height: 50px"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href = ""> 
+    <img style = "width: 100px; height: 50px"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)"/>
+  </a>
+  
   
 </div>
 
 <div style = "width: 100%; text-align: center;"> 
   <h3> My knowledges: </h3><br>
-  <img style = "width: 100px; height: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img style = "width: 100px; height: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img style = "width: 100px; height: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img style = "width: 100px; height: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img style = "width: 100px; height: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img style = "width: 100px; height: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+  <img style = "width: 100px; height: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+
 </div>
