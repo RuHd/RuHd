@@ -17,11 +17,6 @@
 - 💬 Qualquer Dúvida, pode entrar em contato comigo nas minhas redes sociais abaixo:
 
 <div> 
-  <h3> My Portfolio 🎨 </h3>
-  <a href = "https://ruandev.com.br"> ruandev.com.br <a/>
-</div>
-
-<div> 
   <h3> Social Medias </h3> <br>
   <a>
      <img style = "width: 100px; height: 50px"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
